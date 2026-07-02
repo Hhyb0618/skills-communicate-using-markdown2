@@ -9,5 +9,7 @@
 3. Step 3
 
 ## Review
-[  ] This task is complete
-[  ] This task is not complete
+- [ ] This task is complete
+- [ ] This task is not complete
+
+
