@@ -32,3 +32,6 @@ var myVar = "Hello, world!";
 ```
 
 var myVar = "Hello, world!";
+
+## 55
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
